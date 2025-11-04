@@ -5,7 +5,7 @@ title: inicio
 
 # ¡Bienvenido a mi sitio web!: Angel Lapeña Bautista
 
-## Este es un titul de tipo 2
+## Este es un titulo de tipo 2
 
 Aqui podremos poner mas contenido.
 
@@ -13,4 +13,4 @@ Aqui podremos poner mas contenido.
 
 Aqui pondremos mas cosillas
 
-### Este es un tituo de tipo 3 (a mayor numeracion, mas pequwño es el titulo)
+### Este es un tituo de tipo 3 (a mayor numeracion, mas pequeño es el titulo)
