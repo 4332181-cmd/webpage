@@ -1,9 +1,0 @@
-main:
-  - title: "Nuestro centro"
-    url: /acercade/
-  - title: "Ciclos formativos"
-    url: /ciclos/
-  - title: "Blog"
-    url: /blog/
-  - title: "Contacto"
-    url: /contacto/
