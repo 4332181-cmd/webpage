@@ -1,40 +1,58 @@
 ---
-layout: default
-title: inicio
+layout: home
+title: " "
+classes:
+  - wide
+header:
+  overlay_color: "#fff"
+  overlay_filter: "0"
+  overlay_image: /assets/images/LOGO_FP_SALCEDA9.jpg
+caption: ""
+excerpt: ""
 ---
 
-# ¡Bienvenido a mi sitio web!: Angel Lapeña Bautista
+<div id="box" style="display: none; width:100px; height:100px; background-color:#3498db; margin: 50px auto;"></div>
 
-## Este es un titulo de tipo 2
+  <section class="animate-on-scroll" data-bg="#e0e0e0" style="background:#e0e0e0;">Sección 1
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+ 
+    <p><img class="animar_imagen" src="assets/images/LOGO_FP_SALCEDA9.jpg" /></p>
+    
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    Minimal Mistakes
+  </section>
+  
+  <section class="animate-on-scroll" data-bg="#f3f3f3" style="background:#f3f3f3;">Sección 2
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
 
-Aqui podremos poner mas contenido.
+    <p><img class="animar_imagen" src="assets/images/LOGO_FP_SALCEDA9.jpg" /></p>
 
-## Este es otro titulo de tipo 2
-
-Aqui pondremos mas cosillas
-
-### Este es un tituo de tipo 3 (a mayor numeracion, mas pequeño es el titulo)
-
-
-<table>
-  <tr>
-    <th>posicion</th>
-    <th>Equipo</th>
-    <th>Puntos</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>MADRID</td>
-    <td>54</td>
-  </tr>  
-  <tr>
-    <td>2</td>
-    <td>MURCIA</td>
-    <td>44</td>
-  </tr>  
-  <tr>
-    <td>3</td>
-    <td>BARCELONA</td>
-    <td>33</td>
-  </tr>  
-</table>
+    Minimal Mistakes
+  </section>
+  
+  <section class="page_animate-on-scroll" data-bg="#e1e1e1" style="background:#e1e1e1;">Sección 3
+    <p>Esto es un parrafo de prueba</p>
+     <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    <p>Esto es un parrafo de prueba</p>
+    
+    <p><img class="animar_imagen" src="assets/images/LOGO_FP_SALCEDA9.jpg" /></p>    
+ 
+    Minimal Mistakes
+  </section>
